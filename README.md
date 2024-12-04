@@ -5,4 +5,6 @@ Hey welcome to my   **GFG-160-days-challenge** where I'm posting my solution to 
 3. [Reverse an array](https://github.com/lakshmir1098/GFG-160-days-challenge/blob/master/03%20Reverse%20an%20array.md)
 4. [Rotate an array](https://github.com/lakshmir1098/GFG-160-days-challenge/blob/master/04%20rotate%20array.md)
 5. [Next permutation](https://github.com/lakshmir1098/GFG-160-days-challenge/blob/master/05%20Next%20permutation.mds)
-6. [Majority Element II]()
+6. [Majority Element II](https://github.com/lakshmir1098/GFG-160-days-challenge/blob/master/06%20Majority%20Element%20II.md)
+16. [Anagram]()
+20. [String Rotation of EachOther]()
