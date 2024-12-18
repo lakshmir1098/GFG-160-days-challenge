@@ -30,10 +30,7 @@ class Solution {
                 return n-i;
             }
 
-        }
-           
-
-       ```    
+        }    
         return 0;    
     }
     
